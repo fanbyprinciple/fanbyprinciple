@@ -1,7 +1,5 @@
 ### Hi there 😸
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on getting my oscp certification.
 - 🌱 I’m currently learning mix of cyber security and machine learning.
 - 👯 I’m looking to collaborate on - anything basically.
