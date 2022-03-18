@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on - anything basically.
 - 💬 Ask me about my favorite books.
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I am a big fan of Andrej Karpathy
+- ⚡ Fun fact: I am a big fan of Andrej Karpathy. I hope to do something meaningful with coding.
 
