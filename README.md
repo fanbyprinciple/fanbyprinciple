@@ -17,11 +17,6 @@
 
 Hello! I am passionate about Machine learning and AI. Have been on the self starter road for some time. Recently felt the need to orient towards cyber security as well. 
 
-Check out my repos - 
-
-noc-fanbyprinciple - my attempt to convert proccesing to p5.js, one my more visual repos.
-d2l-fanbyprinicple - my attempt to foolow through D2l.ai book.
-
 - 💼 any freelance work? do reach, [email](mailto:fanbyprinciple@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
