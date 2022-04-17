@@ -20,6 +20,8 @@ Hello! I am passionate about Machine learning and AI. Have been on the self star
 - 💼 interesting work? do reach, [email](mailto:fanbyprinciple@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
+looking to improve everyday. small step at a time.
+
 
 📈 my github stats
 
