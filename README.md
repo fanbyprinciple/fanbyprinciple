@@ -11,7 +11,7 @@
   <img align="left" alt="fanbyprinicple LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=a) -->
 
 <br />
 
@@ -25,8 +25,22 @@ looking to improve everyday. small step at a time.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fanbyprinciple&show_icons=true&theme=gotham" alt="fanbyprinciple" />
 
+<a href="https://hasherezade.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanbyprinciple&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://hasherezade.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanbyprinciple&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://hasherezade.net">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanbyprinciple&theme=dark" />
+</a>
+<br/>
+<a href="https://twitter.com/hasherezade">
+  <img src="https://img.shields.io/twitter/follow/fanbyprinciple?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
 
 
 
