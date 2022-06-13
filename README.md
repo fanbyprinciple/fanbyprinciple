@@ -16,7 +16,7 @@
 
 <br />
 
-Hello! I am passionate about Machine learning and AI. Have been on the self starter road for some time. Recently felt the need to orient towards cyber security as well. Started with trying to decipher the intricacies of winapis.
+Hello! I am passionate about Machine learning and AI. Have been on the self starter road for some time. Recently felt the need to orient towards cyber security as well. Started with trying to decipher the intricacies (also known as trial and error) of winapis.
 
 - 💼 interesting work? do reach, [email](mailto:fanbyprinciple@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
