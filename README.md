@@ -35,9 +35,8 @@ looking to improve everyday. small step at a time.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanbyprinciple&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
-<a href="https://hasherezade.net">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanbyprinciple&theme=dark" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanbyprinciple&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 <a href="https://twitter.com/hasherezade">
   <img src="https://img.shields.io/twitter/follow/fanbyprinciple?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
