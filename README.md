@@ -35,6 +35,8 @@ looking to improve everyday. small step at a time.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanbyprinciple&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanbyprinciple&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
