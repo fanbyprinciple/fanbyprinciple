@@ -47,6 +47,7 @@ looking to improve everyday. small step at a time.
 
 <br/>
 <a href="https://twitter.com/hasherezade">
+
   <img src="https://img.shields.io/twitter/follow/fanbyprinciple?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 
