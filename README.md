@@ -27,7 +27,7 @@ Hello! I am passionate about Machine learning and AI. Have been on the self star
 
 - 💬 ask me about anything, I am happy to help;
 
-looking to improve everyday. small step at a time.
+looking to improve everyday. small step at a time. Just hamg in there.
 
 
 📈 my github stats
