@@ -21,7 +21,7 @@
 
 http://pinvoke.net/wikiedit.aspx?topic=user32.fanbyprinciple
 
-Hello! I am passionate about Machine learning and AI. Have been on the self starter road for some time. Recently felt the need to orient towards cyber security as well. Started with trying to decipher the intricacies (also known as trial and error) of winapis. Recently feeling inquisitive about CTFs.
+Hello! I am passionate about Cyber security, Machine learning and AI. Have been on the self starter road for some time. Started with trying to decipher the intricacies (also known as trial and error) of winapis. Recently feeling inquisitive about CTFs.
 
 - 💼 interesting work? do reach, [email](mailto:fanbyprinciple@gmail.com) :)
 
