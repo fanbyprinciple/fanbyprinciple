@@ -28,6 +28,7 @@ Hello! I am passionate about Cyber security, Machine learning and AI. Have been 
 - 💬 ask me about anything, I am happy to help;
 
 looking to improve everyday. small step at a time. Just hang in there.
+Datebayo!
 
 
 📈 my github stats
