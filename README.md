@@ -39,7 +39,7 @@ looking to improve everyday. small step at a time. Just hang in there.
 </a>
 
 <a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanbyprinciple&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanbyprinciple&&hide=cmake&langs_count=4&line_height=35&theme=shades-of-purple" />
 </a>
 
 <br>
