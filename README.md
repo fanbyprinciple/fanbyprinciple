@@ -35,7 +35,7 @@ looking to improve everyday. small step at a time. Just hang in there.
 
 
 <a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanbyprinciple&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanbyprinciple&show_icons=true&line_height=33&count_private=true&theme=shades-of-purple" alt="hasherezade's GitHub Stats" />
 </a>
 
 <a href="https://hasherezade.net">
