@@ -1,8 +1,8 @@
 ### Hello! 😺
 
-Hello! I am passionate about Cyber security (OSCP done), Machine learning and AI. Have been on the self starter road for some time. Started with trying to decipher the intricacies (also known as trial and error) of winapis. Recently feeling inquisitive about CTFs.
+Hello! I am passionate about Cyber security, Machine learning and AI. Have been on the self starter road for some time. Yet to stick to one thing.
 
-Looking to improve everyday. small step at a time.
+Looking to improve everyday. Small step at a time.
 
 
 📈 my github stats
