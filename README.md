@@ -9,8 +9,6 @@ P.S. Contrary to my profile picture, I am not a cat.
 
 <strong>Currently working on</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbyprinciple&repo=CounselorAI&theme=swift)](https://github.com/fanbyprinciple/CounselorAI)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbyprinciple&repo=noteforge&theme=swift)](https://github.com/fanbyprinciple/noteforge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbyprinciple&repo=CounselorAI&theme=swift)](https://github.com/fanbyprinciple/CounselorAI) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fanbyprinciple&repo=noteforge&theme=swift)](https://github.com/fanbyprinciple/noteforge)
 
 
