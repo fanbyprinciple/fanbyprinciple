@@ -17,13 +17,17 @@ REM / /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \..
 REM \ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
 REM  `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--' 
 ```
++--------------------------------------------------------------------------------------------------+
+|                                                                                                  |
+|            I am fascinated by trifecta of Cyber security, Machine learning and AI.               |
+|                       Have been on the self starter road for some time.                          |
+|                              Yet to really stick to one thing.                                   |
+|                      Looking to improve everyday. Small step at a time.                          |                                      
+|                                                                                                  |
+|                      P.S. Contrary to my profile picture, I am not a cat.                        |
+|                                                                                                  |
+|                                                                                                  |
++--------------------------------------------------------------------------------------------------+
 
-
-I am fascinated by the venn diagram composed of Cyber security, Machine learning and AI. 
-Have been on the self starter road for some time. 
-Yet to really stick to one thing.
-Looking to improve everyday. Small step at a time.
-
-P.S. Contrary to my profile picture, I am not a cat.
 
 
