@@ -20,7 +20,7 @@
 ---
 
 ```
-~> finger fanbyprinciple
+-> cat fanbyprinciple.md
 
 login:     fanbyprinciple
 shell:     /bin/curiosity
